@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "",
+  "pub_date": "2026-08-20T04:19:56Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUdYY0N2eEJCK0hOWUoybWxORTk2eXFJZHQvL0FHN3Jhc0VmOEQ4MjBIRGhoa2w4enRCak0xUDd2VTV0M0d0Q3hBZE1sTENjMjBxcWxqcDRzMmRoR3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTk5MzAyCWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4xX3g2NC1zZXR1cC5leGUKN1V0eHRoYkZpWGtvZDRWV0huZ3BqWG1ycWszU1psZys0K1JXcTFkV0RydmtoZEtPYlJhQ3lvZ3VsMGJua1hxMWN4LzRlamk4WHp4dGpoQ21GeWovQ3c9PQo=",
+      "url": "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.1/SAINT.CLIENT.0.1.1.exe"
+    }
+  }
+}
