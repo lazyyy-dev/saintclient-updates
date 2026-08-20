@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Первый релиз лаунчера.",
+  "pub_date": "2026-08-20T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.0/SAINT.CLIENT.Launcher_0.1.0_x64-setup.exe"
+    }
+  }
+}
