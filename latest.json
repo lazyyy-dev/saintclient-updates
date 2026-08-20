@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.11",
+    "version":  "0.1.12",
     "notes":  "",
-    "pub_date":  "2026-08-20T11:20:21Z",
+    "pub_date":  "2026-08-20T13:26:50Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TVBub1ZESUZtT1MzUEhmSzBVL0JRSmVRcjU1SVVHeEFxYzYxUHdSZU9sTERURFBySk4vYStxb01uQ0pnSWpHZ2JGenBIeCs0QzhvdExhSnBrc2dURFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjI0ODAwCWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4xMV94NjQtc2V0dXAuZXhlCjY2b3BHVHBKb21oeGdyODJLeDU5NkhyRXlvU0wrS0JNQy9NbTlwa1EzLytxVFMrQ3NaRlJ4VTV5aTV5QUhQdDNWTFl5aUhZZmhhYkkvZHpuNVo0RkN3PT0K",
-                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.11/SAINT.CLIENT.0.1.11.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUo5N2oxVFdHZDBZdlVMLy9UZU1YTFRvQkp0SWdPcFdwTC9aY0JJaDlpRXRoR3RiWkZXS05nWTZHbU5xeWdPUmlrWmZoYzB4bmp4RmQ5YUJzS25JSWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjMyMzkzCWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4xMl94NjQtc2V0dXAuZXhlCkZSNFNoa0dQL2FIVTNlV25HckFYWG1QcThSRW1URUFHd3lxYW9VQ1lwbUgzOWZjUk12VElSd1YyV0FhbmZOQ2t4TXlocTZhT1licitZYkpEUGNXaENRPT0K",
+                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.12/SAINT.CLIENT.0.1.12.exe"
                                          }
                   }
 }
