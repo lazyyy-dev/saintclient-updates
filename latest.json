@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.6",
-    "notes":  "HUD-панели с шапками BINDS/MODULES, заголовок окна Minecraft переименован, кнопки поделиться/вставить без лишнего трекинга.",
-    "pub_date":  "2026-08-21T22:27:31Z",
+    "version":  "0.1.7",
+    "notes":  "",
+    "pub_date":  "2026-08-21T23:16:45Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TU5YcGYvMklqRGFwYVY1MXZCYlBDRGFKL2daTlFvVkR2Qk1VVmUzejRZZ1hicmF3aVQwV0xwaEtMdkNxR2NHbmkzMDJwQ2xhMTB3VThPZ1FldWJ1aUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzUxMjM5CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS42X3g2NC1zZXR1cC5leGUKNFhEeEpxdHAxSjlVSlJvMXVUYkE2U2NaR1RwS3NZS1hUSEp2dDBVN3J5NjdRR3IvT0p4ZHlKK25HbjFNbmQ2Z0NIUEQ0M2x4b2czUm84Wnh3QUIwQ1E9PQo=",
-                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.6/SAINT.CLIENT.0.1.6.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUlvaWV3QWs5V1dWTm9IWUI5eDhBbEJ6eUlha0tWRVZRRHQxdnhXNlBVVHNYN2huSTlLNzhQNnIyNSs1Q3dSOGdaVk5JbmhxZG9nbFJTYzhSR2NudGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzU0MTk1CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS43X3g2NC1zZXR1cC5leGUKRzFBTDhEbWtaUkVkeU5OeGdRSXBYcnY1S1BIVUtQWHoySGxHdGttcWMrUldMVDdkcmpEeEpoREhmclBpZksxSzNhcFpRT1E2T2wrRE82TEpMbEhjREE9PQo=",
+                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.7/SAINT.CLIENT.0.1.7.exe"
                                          }
                   }
 }
