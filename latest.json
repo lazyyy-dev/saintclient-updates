@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.2",
-    "notes":  "Новый фирменный стиль: чёрно-золотая тема, эмблема с крыльями в лаунчере, обновлённые иконки.",
-    "pub_date":  "2026-08-21T16:45:04Z",
+    "version":  "0.1.3",
+    "notes":  "Чёрно-золотой стиль во всём клиенте: GUI, HUD, ESP и меню Minecraft. Убран значок S в шапке лаунчера.",
+    "pub_date":  "2026-08-21T17:36:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TU1xZk5UV1ZGd2FMNnFsRlZrZFFhY2dqVEdlcWR4Q1J6UDBUVlRZSDhkdFZQNmFYSndxckxVQ3ZwRzd3djVtZlE0QWJmM2xWRlhrMHZjOEsvMFArT1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzMwNjk1CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4yX3g2NC1zZXR1cC5leGUKMCtJYXVyQVliU0tFT0Y4Y3piRzBTSUdNZUpoQk5IZUdJdXhaWFk1K2ZhOTFKOEE3QldnbDdZZkRabXRqRmtIRnhBcXNsWE0vNzVJK1JhMnRvSVpMQlE9PQo=",
-                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.2/SAINT.CLIENT.0.1.2.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUhBUlg2RVlUaCs0anpIMWNEaEM4UlhRdytBT0ZNTC9tN3Y1Zzh5K3ZiU0s3Z21rK0JFZm1sZkUrSlpOczIvSEM0NGw2NlR6OTNZKzFRZFZNczczSkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzMzNzg3CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4zX3g2NC1zZXR1cC5leGUKUE1oK091cENzbUZNa0lIMDRvOWFZaVpQaFNobmc1a011eU51Z2pIaTdGUmFFNkoyaEhNRVB0OFV1Y0tBR3pFeDlJVXA2TmRweC9ybUFxYUdVL3VWQkE9PQo=",
+                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.3/SAINT.CLIENT.0.1.3.exe"
                                          }
                   }
 }
