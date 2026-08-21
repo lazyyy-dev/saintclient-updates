@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.16",
-    "notes":  "Chest Stealer ne meshaet Auto-Duel: propuskaet servernye menu (kit-piker RW, shopy, varpy)",
-    "pub_date":  "2026-08-21T12:45:37Z",
+    "version":  "0.1.0",
+    "notes":  "Reset k publichnoy versii 0.1.0. Vsyo tekushchee funktsional: KillAura s ObkhOD RW presetom, AutoTotem, Velocity, AutoDuel s fiksom Chest Stealer konflikta",
+    "pub_date":  "2026-08-21T13:04:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUdiNzByZm1Uejh3YitHa3V6dWp3S28yVjRzaXcyMXFnM3QwdFpSNldzeHhlWGQzdWpLSzdMeTRWS29oTlBXb2hpTGNHYW0yYm9RL09JU2Q4R1JKQmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzE2MzIzCWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4xNl94NjQtc2V0dXAuZXhlCm4xMDZ6R0xWTmpqMGVPbkFvZ2huZU5qMm94NzNFU3hybFovT24zNlJjVnc0QU40dHhGSHNmKzl4TmsrME9lL05yQ1FWNi9KWmdrWjF2WXJobE9PV0NBPT0K",
-                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.16/SAINT.CLIENT.0.1.16.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TU9FR0VEdVdGSUFrSXNNS2FYS0FTc2RkVDVaUTVOT0krU0U1ZVAyVmZjUEZzZFV2b0x5MFc4cThFSjAxZ1VOWlRkLy9ZSHJzZ2JrVjUvSUczU0FJTmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzE3NDQxCWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4wX3g2NC1zZXR1cC5leGUKdUR3SFAyQmpheHNXUUFSSStQaWE1MmVZNG95akdnVTR2THhQNEUxRCtoNGhIcHU0NTBMRWlDNVpPWmFzeWt0NWdCYktlSmlGRUdNbkE2QnJ1akNXQ3c9PQo=",
+                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.0/SAINT.CLIENT.0.1.0.exe"
                                          }
                   }
 }
