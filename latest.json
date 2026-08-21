@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.0",
-    "notes":  "Reset k publichnoy versii 0.1.0. Vsyo tekushchee funktsional: KillAura s ObkhOD RW presetom, AutoTotem, Velocity, AutoDuel s fiksom Chest Stealer konflikta",
-    "pub_date":  "2026-08-21T13:04:19Z",
+    "version":  "0.1.1",
+    "notes":  "Chit: profile bar - MC head vmesto SM, ubran gear i PREMIUM badge",
+    "pub_date":  "2026-08-21T14:27:31Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TU9FR0VEdVdGSUFrSXNNS2FYS0FTc2RkVDVaUTVOT0krU0U1ZVAyVmZjUEZzZFV2b0x5MFc4cThFSjAxZ1VOWlRkLy9ZSHJzZ2JrVjUvSUczU0FJTmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzE3NDQxCWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4wX3g2NC1zZXR1cC5leGUKdUR3SFAyQmpheHNXUUFSSStQaWE1MmVZNG95akdnVTR2THhQNEUxRCtoNGhIcHU0NTBMRWlDNVpPWmFzeWt0NWdCYktlSmlGRUdNbkE2QnJ1akNXQ3c9PQo=",
-                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.0/SAINT.CLIENT.0.1.0.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUVXc1JDbUNhMCthQ0IwWDJvdEREb0lXQXRoSXgzcUl5NGlvTzREbnl6QVNEL21pVyt5SlgyekVwTTJud1pyY201ajJUaHhHZUFhWE5CSFZTUVMrTkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzIyNDM4CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4xX3g2NC1zZXR1cC5leGUKVEdxdng0RElYRFhKVmpSUkwxWW9OWmszUm1BcWFsTmhibm5abzVXdXZ6MCswUTFvbFVadURSZ1cyZ0lPVVdxZUMrcnFYSmJaalQxeExFankrdjA1QXc9PQo=",
+                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.1/SAINT.CLIENT.0.1.1.exe"
                                          }
                   }
 }
