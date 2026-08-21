@@ -1,8 +1,8 @@
 {
     "saintclient":  {
-                        "version":  "0.4.15",
-                        "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/mod-v0.4.15/SAINT.CLIENT.0.4.15.jar",
-                        "sha256":  "f95ec600428c0a7aa213b4c5e95c65ad536b6b335be23c401b7a5fa15cc08686",
-                        "pub_date":  "2026-08-20T22:12:50Z"
+                        "version":  "0.4.16",
+                        "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/mod-v0.4.16/SAINT.CLIENT.0.4.16.jar",
+                        "sha256":  "e7943bd3e3beacfc1066a4a47dd365470f5c0470988d599a95c713e0d83681e2",
+                        "pub_date":  "2026-08-21T10:41:53Z"
                     }
 }
