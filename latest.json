@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.1",
-    "notes":  "Chit: profile bar - MC head vmesto SM, ubran gear i PREMIUM badge",
-    "pub_date":  "2026-08-21T14:27:31Z",
+    "version":  "0.1.2",
+    "notes":  "Новый фирменный стиль: чёрно-золотая тема, эмблема с крыльями в лаунчере, обновлённые иконки.",
+    "pub_date":  "2026-08-21T16:45:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUVXc1JDbUNhMCthQ0IwWDJvdEREb0lXQXRoSXgzcUl5NGlvTzREbnl6QVNEL21pVyt5SlgyekVwTTJud1pyY201ajJUaHhHZUFhWE5CSFZTUVMrTkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzIyNDM4CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4xX3g2NC1zZXR1cC5leGUKVEdxdng0RElYRFhKVmpSUkwxWW9OWmszUm1BcWFsTmhibm5abzVXdXZ6MCswUTFvbFVadURSZ1cyZ0lPVVdxZUMrcnFYSmJaalQxeExFankrdjA1QXc9PQo=",
-                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.1/SAINT.CLIENT.0.1.1.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TU1xZk5UV1ZGd2FMNnFsRlZrZFFhY2dqVEdlcWR4Q1J6UDBUVlRZSDhkdFZQNmFYSndxckxVQ3ZwRzd3djVtZlE0QWJmM2xWRlhrMHZjOEsvMFArT1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzMwNjk1CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS4yX3g2NC1zZXR1cC5leGUKMCtJYXVyQVliU0tFT0Y4Y3piRzBTSUdNZUpoQk5IZUdJdXhaWFk1K2ZhOTFKOEE3QldnbDdZZkRabXRqRmtIRnhBcXNsWE0vNzVJK1JhMnRvSVpMQlE9PQo=",
+                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.2/SAINT.CLIENT.0.1.2.exe"
                                          }
                   }
 }
