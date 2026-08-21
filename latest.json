@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.4",
-    "notes":  "Иконка деинсталлятора заменена на фирменную. В моде переработана иконка категории MOVEMENT.",
-    "pub_date":  "2026-08-21T18:29:24Z",
+    "version":  "0.1.5",
+    "notes":  "Новая иконка приложения и установщика. Внутри мод 0.4.21.",
+    "pub_date":  "2026-08-21T20:46:26Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUZtQmJ6enBQbi9CT3lkdk5RTWlaenI4dnlFRnNrdEQ0dVFuQzdqaUFXcVNCM0UvTEJFdEVKRTYwOVRKdk1kZUxMZEh5cmtoU3dqYW5kdlM1VU1NK2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzM2OTU0CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS40X3g2NC1zZXR1cC5leGUKOVRwSkNOZWJheHRNMnF5dkFVM0dLNjJHR0FKV2VGbXVRWWVobW0wbERUMnBkSmRnRHJLMG0wWFJkZGNuU0hSSEVJdlBoSkZ5ejN5ZCtLVUZuSnpKQ3c9PQo=",
-                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.4/SAINT.CLIENT.0.1.4.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdG9xanNQU2V1TUlzYkNaQ1NDUk9wMmI3QUwxZTBCa0tUR0liT3NMYWRKOVFYeHBxQlZ6NnpsdHpwYjZORklnNUEyZGN5dTR6RlBMREZIQWhWRHh2NEhodTNWU2FQN3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzQ1MTc2CWZpbGU6U0FJTlQgQ0xJRU5UIExhdW5jaGVyXzAuMS41X3g2NC1zZXR1cC5leGUKT3Bud2M5WTA2TUVUdUhuTUdyTmxXL0dqWklObGR6TitLUTVtYlJPZDJZVkhYMEZPMEJKaGlOTVFHYkZTK3dqVWdDT3VXYUpVUzhCSk1zNjZsalFQREE9PQo=",
+                                             "url":  "https://github.com/lazyyy-dev/saintclient-updates/releases/download/launcher-v0.1.5/SAINT.CLIENT.0.1.5.exe"
                                          }
                   }
 }
